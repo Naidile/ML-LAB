@@ -1,5 +1,5 @@
 # ML Lab
-This repository consists of Machine Learning programs.
+This repository consists of Machine Learning lab programs.
 
 Protected by Apache License 2.0.
 
